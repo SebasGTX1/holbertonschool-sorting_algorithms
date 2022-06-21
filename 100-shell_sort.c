@@ -23,7 +23,7 @@ void shell_sort(int *array, size_t size)
 	{
 		for (i = 0; i < (int)size; i++)
 		{
-			if ((i + gap) < (int)size && array[i] >= array[i + gap])
+			if ((i + gap) < (int)size && array[i] > array[i + gap])
 			{
 				temp = array[i];
 				array[i] = array[i + gap];
