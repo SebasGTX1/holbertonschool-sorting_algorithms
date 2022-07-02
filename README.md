@@ -41,3 +41,14 @@
     <li>Radix sort</li>
     <li>Bucket sort</li>
 </ul>
+<p>- Bubble sort</p>
+<ul>
+    <li>Prototype:&nbsp;<code>void bubble_sort(int *array, size_t size);</code></li>
+    <li>You&rsquo;re expected to print the&nbsp;<code>array</code> after each time you swap two elements (See example below)</li>
+</ul>
+<p>Write in the file&nbsp;<code>0-O</code>, the big O notations of the time complexity of the Bubble sort algorithm, with 1 notation per line:</p>
+<ul>
+    <li>in the best case</li>
+    <li>in the average case</li>
+    <li>in the worst case</li>
+</ul>
