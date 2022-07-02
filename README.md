@@ -41,7 +41,7 @@
     <li>Radix sort</li>
     <li>Bucket sort</li>
 </ul>
-<p>- Bubble sort</p>
+<p> - Bubble sort - </p>
 <ul>
     <li>Prototype:&nbsp;<code>void bubble_sort(int *array, size_t size);</code></li>
     <li>You&rsquo;re expected to print the&nbsp;<code>array</code> after each time you swap two elements (See example below)</li>
