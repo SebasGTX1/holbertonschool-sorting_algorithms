@@ -75,3 +75,16 @@
     <li>in the average case</li>
     <li>in the worst case</li>
 </ul>
+<p>- Quick sort -</p>
+<ul>
+    <li>Prototype:&nbsp;<code>void quick_sort(int *array, size_t size);</code></li>
+    <li>You must implement the&nbsp;<code>Lomuto</code> partition scheme.</li>
+    <li>The pivot should always be the last element of the partition being sorted.</li>
+    <li>You&rsquo;re expected to print the&nbsp;<code>array</code> after each time you swap two elements (See example below)</li>
+</ul>
+<p>Write in the file&nbsp;<code>3-O</code>, the big O notations of the time complexity of the Quick sort algorithm, with 1 notation per line:</p>
+<ul>
+    <li>in the best case</li>
+    <li>in the average case</li>
+    <li>in the worst case</li>
+</ul>
