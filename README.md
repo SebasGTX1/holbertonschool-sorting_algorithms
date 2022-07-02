@@ -141,3 +141,5 @@ No big O notations of the time complexity of the Shell sort (Knuth sequence) alg
 
 Leaving aside the different algorithms, it was also necessary to mark the complexity of them
 <p><img src="https://gamster2145daa.files.wordpress.com/2013/11/a.jpg?w=357&h=203"><br></p>
+Too, we could see of this way 
+<p><img src="https://gamster2145daa.files.wordpress.com/2013/11/omn.jpg?w=369&h=267"><br></p>
