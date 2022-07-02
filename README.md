@@ -24,3 +24,6 @@
     <li>All your header files should be include guarded</li>
     <li>A list/array does not need to be sorted if its size is less than 2.</li>
 </ul>
+
+<p><br></p>
+<p><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--Or0wtXdq--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/nicz3zbgcue7sjw6hrfo.jpg"><br></p>
