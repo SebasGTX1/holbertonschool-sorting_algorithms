@@ -52,3 +52,15 @@
     <li>in the average case</li>
     <li>in the worst case</li>
 </ul>
+<p>- Insertion sort -</p>
+<ul>
+    <li>Prototype:&nbsp;<code>void insertion_sort_list(listint_t **list);</code></li>
+    <li>You are not allowed to modify the integer&nbsp;<code>n</code> of a node. You have to swap the nodes themselves.</li>
+    <li>You&rsquo;re expected to print the&nbsp;<code>list</code> after each time you swap two elements (See example below)</li>
+</ul>
+<p>Write in the file&nbsp;<code>1-O</code>, the big O notations of the time complexity of the Insertion sort algorithm, with 1 notation per line:</p>
+<ul>
+    <li>in the best case</li>
+    <li>in the average case</li>
+    <li>in the worst case</li>
+</ul>
