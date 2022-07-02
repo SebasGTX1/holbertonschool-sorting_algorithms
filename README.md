@@ -120,7 +120,7 @@ No big O notations of the time complexity of the Shell sort (Knuth sequence) alg
     <li>in the worst case</li>
 </ul>
 <p><br></p>
-<p>- Counting sort -</p>
+<h3>- Counting sort -</h3>
 <p>Write a function that sorts an array of integers in ascending order using the <a href="https://intranet.hbtn.io/rltoken/C8Nl15oex99shcqz2RlVVA" target="_blank" title="Counting sort">Counting sort</a> algorithm</p>
 <ul>
     <li>Prototype:&nbsp;<code>void counting_sort(int *array, size_t size);</code></li>
