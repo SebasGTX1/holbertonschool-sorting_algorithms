@@ -106,3 +106,18 @@ No big O notations of the time complexity of the Shell sort (Knuth sequence) alg
     <li>You&rsquo;re expected to print the&nbsp;<code>array</code> each time you decrease the interval (See example below).</li>
 </ul>
 <p><strong>No big O notations of the time complexity of the Shell sort (Knuth sequence) algorithm needed - as the complexity is dependent on the size of array and gap</strong></p>
+<h3>- Cocktail shaker sort -</h3>
+<p>Write a function that sorts a doubly linked list of integers in ascending order using the&nbsp;<a href="https://intranet.hbtn.io/rltoken/zzJDEeipdoUtJ4dnoKPJeQ" target="_blank" title="Cocktail shaker sort">Cocktail shaker sort</a> algorithm</p>
+<ul>
+    <li>Prototype:&nbsp;<code>void cocktail_sort_list(listint_t **list);</code></li>
+    <li>You are not allowed to modify the integer&nbsp;<code>n</code> of a node. You have to swap the nodes themselves.</li>
+    <li>You&rsquo;re expected to print the&nbsp;<code>list</code> after each time you swap two elements (See example below)</li>
+</ul>
+<p>Write in the file&nbsp;<code>101-O</code>, the big O notations of the time complexity of the Cocktail shaker sort algorithm, with 1 notation per line:</p>
+<ul>
+    <li>in the best case</li>
+    <li>in the average case</li>
+    <li>in the worst case</li>
+</ul>
+<pre><code>alex@/tmp/sort$ cat 101-</code></pre>
+<p><br></p>
