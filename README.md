@@ -120,3 +120,20 @@ No big O notations of the time complexity of the Shell sort (Knuth sequence) alg
     <li>in the worst case</li>
 </ul>
 <p><br></p>
+<p>- Counting sort -</p>
+<p>Write a function that sorts an array of integers in ascending order using the <a href="https://intranet.hbtn.io/rltoken/C8Nl15oex99shcqz2RlVVA" target="_blank" title="Counting sort">Counting sort</a> algorithm</p>
+<ul>
+    <li>Prototype:&nbsp;<code>void counting_sort(int *array, size_t size);</code></li>
+    <li>You can assume that&nbsp;<code>array</code> will contain only numbers&nbsp;<code>&gt;= 0</code></li>
+    <li>You are allowed to use&nbsp;<code>malloc</code> and&nbsp;<code>free</code> for this task</li>
+    <li>You&rsquo;re expected to print your counting array once it is set up (See example below)<ul>
+            <li>This array is of size&nbsp;<code>k + 1</code> where&nbsp;<code>k</code> is the largest number in&nbsp;<code>array</code></li>
+        </ul>
+    </li>
+</ul>
+<p>Write in the file&nbsp;<code>102-O</code>, the big O notations of the time complexity of the Counting sort algorithm, with 1 notation per line:</p>
+<ul>
+    <li>in the best case</li>
+    <li>in the average case</li>
+    <li>in the worst case</li>
+</ul>
