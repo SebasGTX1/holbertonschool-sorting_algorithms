@@ -64,3 +64,14 @@
     <li>in the average case</li>
     <li>in the worst case</li>
 </ul>
+<h3>- Selection sort -</h3>
+<ul>
+    <li>Prototype:&nbsp;<code>void selection_sort(int *array, size_t size);</code></li>
+    <li>You&rsquo;re expected to print the&nbsp;<code>array</code> after each time you swap two elements (See example below)</li>
+</ul>
+<p>Write in the file&nbsp;<code>2-O</code>, the big O notations of the time complexity of the Selection sort algorithm, with 1 notation per line:</p>
+<ul>
+    <li>in the best case</li>
+    <li>in the average case</li>
+    <li>in the worst case</li>
+</ul>
