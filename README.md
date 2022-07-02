@@ -27,3 +27,17 @@
 
 <p><br></p>
 <p><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--Or0wtXdq--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/nicz3zbgcue7sjw6hrfo.jpg"><br></p>
+<p><br></p>
+<h2>Some Common Sorting Algorithms</h2>
+<p>Some of the most common sorting algorithms are:</p>
+<ul>
+    <li>Selection sort</li>
+    <li>Bubble sort</li>
+    <li>Insertion sort</li>
+    <li>Merge sort</li>
+    <li>Quick sort</li>
+    <li>Heap sort</li>
+    <li>Counting sort</li>
+    <li>Radix sort</li>
+    <li>Bucket sort</li>
+</ul>
