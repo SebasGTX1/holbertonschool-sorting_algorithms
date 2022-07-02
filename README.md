@@ -94,3 +94,15 @@ n+1 = n * 3 + 1
 1, 4, 13, 40, 121, ...
 You’re expected to print the array each time you decrease the interval (See example below).
 No big O notations of the time complexity of the Shell sort (Knuth sequence) algorithm needed - as the complexity is dependent on the size of array and gap
+<h3>- Shell sort - Knuth Sequence -&nbsp;</h3>
+<p>Write a function that sorts an array of integers in ascending order using the&nbsp;<a href="https://intranet.hbtn.io/rltoken/n1R5L9_ySu3ZE7JqIqIM0Q" target="_blank" title="Shell sort">Shell sort</a> algorithm, using the&nbsp;<code>Knuth sequence</code></p>
+<ul>
+    <li>Prototype:&nbsp;<code>void shell_sort(int *array, size_t size);</code></li>
+    <li>You must use the following sequence of intervals (a.k.a the Knuth sequence):<ul>
+            <li><code>n+1 = n * 3 + 1</code></li>
+            <li><code>1, 4, 13, 40, 121, ...</code></li>
+        </ul>
+    </li>
+    <li>You&rsquo;re expected to print the&nbsp;<code>array</code> each time you decrease the interval (See example below).</li>
+</ul>
+<p><strong>No big O notations of the time complexity of the Shell sort (Knuth sequence) algorithm needed - as the complexity is dependent on the size of array and gap</strong></p>
