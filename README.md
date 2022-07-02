@@ -119,5 +119,4 @@ No big O notations of the time complexity of the Shell sort (Knuth sequence) alg
     <li>in the average case</li>
     <li>in the worst case</li>
 </ul>
-<pre><code>alex@/tmp/sort$ cat 101-</code></pre>
 <p><br></p>
